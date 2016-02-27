@@ -1,4 +1,5 @@
 <?php 
 echo '1.0.0 -dev';
 echo '1.0.0 -master';
+echo '1.1.0 -master';
 ?>
